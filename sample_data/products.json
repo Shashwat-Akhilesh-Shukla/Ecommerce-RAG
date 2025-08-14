@@ -1,0 +1,396 @@
+[
+    {
+        "id": "1",
+        "name": "iPhone 15 Pro",
+        "category": "Smartphones",
+        "price": 999,
+        "brand": "Apple",
+        "rating": 4.8,
+        "description": "The most advanced iPhone ever with titanium design and A17 Pro chip.",
+        "specifications": {
+            "Storage": "128GB",
+            "Camera": "48MP Pro camera system",
+            "Display": "6.1-inch Super Retina XDR",
+            "Battery": "Up to 23 hours video playback"
+        },
+        "reviews": [
+            {"rating": 5, "text": "Amazing camera quality and performance", "helpful_count": 45},
+            {"rating": 4, "text": "Great phone but expensive", "helpful_count": 32}
+        ]
+    },
+    {
+        "id": "2",
+        "name": "Samsung Galaxy S24 Ultra",
+        "category": "Smartphones",
+        "price": 1199,
+        "brand": "Samsung",
+        "rating": 4.7,
+        "description": "Ultimate Galaxy experience with S Pen, AI features, and 200MP camera.",
+        "specifications": {
+            "Storage": "256GB",
+            "Camera": "200MP main camera",
+            "Display": "6.8-inch Dynamic AMOLED 2X",
+            "Battery": "5000mAh with fast charging"
+        },
+        "reviews": [
+            {"rating": 5, "text": "Best Android phone with incredible S Pen functionality", "helpful_count": 67},
+            {"rating": 4, "text": "Excellent camera but heavy device", "helpful_count": 41}
+        ]
+    },
+    {
+        "id": "3",
+        "name": "Google Pixel 8 Pro",
+        "category": "Smartphones",
+        "price": 899,
+        "brand": "Google",
+        "rating": 4.6,
+        "description": "Pure Android experience with advanced AI photography and Tensor G3 chip.",
+        "specifications": {
+            "Storage": "128GB",
+            "Camera": "50MP triple camera system",
+            "Display": "6.7-inch LTPO OLED",
+            "Battery": "5050mAh with wireless charging"
+        },
+        "reviews": [
+            {"rating": 5, "text": "Best computational photography on any phone", "helpful_count": 58},
+            {"rating": 4, "text": "Clean Android experience, great updates", "helpful_count": 39}
+        ]
+    },
+    {
+        "id": "4",
+        "name": "OnePlus 12",
+        "category": "Smartphones",
+        "price": 699,
+        "brand": "OnePlus",
+        "rating": 4.5,
+        "description": "Flagship performance with OxygenOS and ultra-fast charging.",
+        "specifications": {
+            "Storage": "256GB",
+            "Camera": "50MP Hasselblad camera",
+            "Display": "6.82-inch AMOLED",
+            "Battery": "5400mAh with 100W charging"
+        },
+        "reviews": [
+            {"rating": 5, "text": "Incredible charging speed and smooth performance", "helpful_count": 44},
+            {"rating": 4, "text": "Great value flagship phone", "helpful_count": 36}
+        ]
+    },
+
+    # Laptops
+    {
+        "id": "5",
+        "name": "MacBook Pro 14-inch M3",
+        "category": "Laptops",
+        "price": 1999,
+        "brand": "Apple",
+        "rating": 4.9,
+        "description": "Professional laptop with M3 chip, Liquid Retina XDR display, and all-day battery.",
+        "specifications": {
+            "Processor": "Apple M3 chip",
+            "RAM": "16GB unified memory",
+            "Storage": "512GB SSD",
+            "Display": "14.2-inch Liquid Retina XDR"
+        },
+        "reviews": [
+            {"rating": 5, "text": "Unmatched performance for creative professionals", "helpful_count": 89},
+            {"rating": 5, "text": "Best laptop display I've ever used", "helpful_count": 72}
+        ]
+    },
+    {
+        "id": "6",
+        "name": "Dell XPS 13 Plus",
+        "category": "Laptops",
+        "price": 1299,
+        "brand": "Dell",
+        "rating": 4.4,
+        "description": "Ultra-premium Windows laptop with InfinityEdge display and modern design.",
+        "specifications": {
+            "Processor": "Intel Core i7-1360P",
+            "RAM": "16GB LPDDR5",
+            "Storage": "512GB SSD",
+            "Display": "13.4-inch 3.5K OLED"
+        },
+        "reviews": [
+            {"rating": 4, "text": "Beautiful design but keyboard takes getting used to", "helpful_count": 53},
+            {"rating": 5, "text": "Stunning OLED display and premium build", "helpful_count": 41}
+        ]
+    },
+    {
+        "id": "7",
+        "name": "ASUS ROG Zephyrus G14",
+        "category": "Laptops",
+        "price": 1599,
+        "brand": "ASUS",
+        "rating": 4.6,
+        "description": "Compact gaming laptop with AMD Ryzen and RTX graphics.",
+        "specifications": {
+            "Processor": "AMD Ryzen 9 7940HS",
+            "GPU": "NVIDIA RTX 4060",
+            "RAM": "16GB DDR5",
+            "Display": "14-inch 165Hz QHD"
+        },
+        "reviews": [
+            {"rating": 5, "text": "Perfect balance of portability and gaming performance", "helpful_count": 76},
+            {"rating": 4, "text": "Great for both work and gaming", "helpful_count": 48}
+        ]
+    },
+
+    # Headphones
+    {
+        "id": "8",
+        "name": "Sony WH-1000XM5",
+        "category": "Headphones",
+        "price": 399,
+        "brand": "Sony",
+        "rating": 4.7,
+        "description": "Industry-leading noise canceling with premium sound quality.",
+        "specifications": {
+            "Type": "Over-ear wireless",
+            "Battery": "30 hours with ANC",
+            "Features": "Adaptive Sound Control, Multipoint connection",
+            "Driver": "30mm drivers"
+        },
+        "reviews": [
+            {"rating": 5, "text": "Best noise cancellation on the market", "helpful_count": 134},
+            {"rating": 4, "text": "Excellent sound quality and comfort", "helpful_count": 98}
+        ]
+    },
+    {
+        "id": "9",
+        "name": "Apple AirPods Pro 2",
+        "category": "Headphones",
+        "price": 249,
+        "brand": "Apple",
+        "rating": 4.8,
+        "description": "Next-level AirPods Pro with H2 chip and improved Active Noise Cancellation.",
+        "specifications": {
+            "Type": "True wireless earbuds",
+            "Battery": "6 hours + 24 hours with case",
+            "Features": "Adaptive Transparency, Spatial Audio",
+            "Chip": "Apple H2"
+        },
+        "reviews": [
+            {"rating": 5, "text": "Perfect for iPhone users, seamless integration", "helpful_count": 156},
+            {"rating": 5, "text": "Amazing spatial audio experience", "helpful_count": 89}
+        ]
+    },
+    {
+        "id": "10",
+        "name": "Bose QuietComfort 45",
+        "category": "Headphones",
+        "price": 329,
+        "brand": "Bose",
+        "rating": 4.5,
+        "description": "Legendary quiet with premium comfort and balanced sound.",
+        "specifications": {
+            "Type": "Over-ear wireless",
+            "Battery": "24 hours",
+            "Features": "Active Noise Cancelling, TriPort technology",
+            "Weight": "240g"
+        },
+        "reviews": [
+            {"rating": 5, "text": "Most comfortable headphones for long flights", "helpful_count": 87},
+            {"rating": 4, "text": "Great noise cancellation but average sound", "helpful_count": 56}
+        ]
+    },
+
+    # Smartwatches
+    {
+        "id": "11",
+        "name": "Apple Watch Series 9",
+        "category": "Smartwatches",
+        "price": 429,
+        "brand": "Apple",
+        "rating": 4.8,
+        "description": "Most advanced Apple Watch with Double Tap gesture and S9 chip.",
+        "specifications": {
+            "Display": "45mm Always-On Retina",
+            "Battery": "Up to 18 hours",
+            "Features": "Double Tap, ECG, Blood Oxygen",
+            "Storage": "64GB"
+        },
+        "reviews": [
+            {"rating": 5, "text": "Double Tap feature is revolutionary", "helpful_count": 78},
+            {"rating": 4, "text": "Best smartwatch for iPhone users", "helpful_count": 65}
+        ]
+    },
+    {
+        "id": "12",
+        "name": "Samsung Galaxy Watch 6",
+        "category": "Smartwatches",
+        "price": 329,
+        "brand": "Samsung",
+        "rating": 4.6,
+        "description": "Advanced health monitoring with sleek design and Wear OS.",
+        "specifications": {
+            "Display": "44mm Super AMOLED",
+            "Battery": "Up to 40 hours",
+            "Features": "Body composition, Sleep coaching",
+            "OS": "Wear OS 4"
+        },
+        "reviews": [
+            {"rating": 5, "text": "Excellent health tracking features", "helpful_count": 69},
+            {"rating": 4, "text": "Great Android companion watch", "helpful_count": 52}
+        ]
+    },
+
+    # Gaming Consoles
+    {
+        "id": "13",
+        "name": "PlayStation 5",
+        "category": "Gaming",
+        "price": 499,
+        "brand": "Sony",
+        "rating": 4.7,
+        "description": "Next-gen gaming console with ultra-high speed SSD and ray tracing.",
+        "specifications": {
+            "CPU": "AMD Zen 2",
+            "GPU": "AMD RDNA 2",
+            "Storage": "825GB SSD",
+            "Features": "Ray tracing, 3D audio, DualSense controller"
+        },
+        "reviews": [
+            {"rating": 5, "text": "Incredible gaming experience with amazing exclusives", "helpful_count": 245},
+            {"rating": 4, "text": "Fast loading times but still hard to find", "helpful_count": 187}
+        ]
+    },
+    {
+        "id": "14",
+        "name": "Xbox Series X",
+        "category": "Gaming",
+        "price": 499,
+        "brand": "Microsoft",
+        "rating": 4.6,
+        "description": "Most powerful Xbox ever with 4K gaming and Game Pass.",
+        "specifications": {
+            "CPU": "AMD Zen 2",
+            "GPU": "AMD RDNA 2",
+            "Storage": "1TB SSD",
+            "Features": "4K/120fps, Quick Resume, Smart Delivery"
+        },
+        "reviews": [
+            {"rating": 5, "text": "Game Pass makes this the best value in gaming", "helpful_count": 198},
+            {"rating": 4, "text": "Powerful hardware with excellent backward compatibility", "helpful_count": 156}
+        ]
+    },
+
+    # Tablets
+    {
+        "id": "15",
+        "name": "iPad Pro 12.9-inch M2",
+        "category": "Tablets",
+        "price": 1099,
+        "brand": "Apple",
+        "rating": 4.8,
+        "description": "Ultimate iPad experience with M2 chip and Liquid Retina XDR display.",
+        "specifications": {
+            "Processor": "Apple M2 chip",
+            "Display": "12.9-inch Liquid Retina XDR",
+            "Storage": "128GB",
+            "Features": "Apple Pencil support, Face ID"
+        },
+        "reviews": [
+            {"rating": 5, "text": "Best tablet for creative professionals", "helpful_count": 134},
+            {"rating": 4, "text": "Laptop replacement potential but expensive", "helpful_count": 98}
+        ]
+    },
+    {
+        "id": "16",
+        "name": "Samsung Galaxy Tab S9 Ultra",
+        "category": "Tablets",
+        "price": 1199,
+        "brand": "Samsung",
+        "rating": 4.6,
+        "description": "Largest Galaxy Tab with S Pen and desktop-class performance.",
+        "specifications": {
+            "Processor": "Snapdragon 8 Gen 2",
+            "Display": "14.6-inch Super AMOLED",
+            "Storage": "256GB",
+            "Features": "S Pen included, DeX mode"
+        },
+        "reviews": [
+            {"rating": 5, "text": "Amazing display and S Pen functionality", "helpful_count": 89},
+            {"rating": 4, "text": "Great for productivity but quite large", "helpful_count": 67}
+        ]
+    },
+
+    # Smart Home
+    {
+        "id": "17",
+        "name": "Amazon Echo Dot 5th Gen",
+        "category": "Smart Home",
+        "price": 49,
+        "brand": "Amazon",
+        "rating": 4.4,
+        "description": "Compact smart speaker with Alexa and improved sound quality.",
+        "specifications": {
+            "Assistant": "Alexa built-in",
+            "Connectivity": "Wi-Fi, Bluetooth",
+            "Features": "Voice control, Music streaming",
+            "Size": "3.9 x 3.9 x 3.5 inches"
+        },
+        "reviews": [
+            {"rating": 4, "text": "Great value smart speaker for beginners", "helpful_count": 156},
+            {"rating": 5, "text": "Much better sound than previous generation", "helpful_count": 89}
+        ]
+    },
+    {
+        "id": "18",
+        "name": "Google Nest Hub Max",
+        "category": "Smart Home",
+        "price": 229,
+        "brand": "Google",
+        "rating": 4.5,
+        "description": "Smart display with Google Assistant and built-in camera.",
+        "specifications": {
+            "Display": "10-inch HD touchscreen",
+            "Assistant": "Google Assistant",
+            "Camera": "6.5MP wide-angle camera",
+            "Features": "Video calls, Home control hub"
+        },
+        "reviews": [
+            {"rating": 5, "text": "Perfect kitchen companion with recipe videos", "helpful_count": 98},
+            {"rating": 4, "text": "Great for video calls and smart home control", "helpful_count": 76}
+        ]
+    },
+
+    # Cameras
+    {
+        "id": "19",
+        "name": "Canon EOS R5",
+        "category": "Cameras",
+        "price": 3899,
+        "brand": "Canon",
+        "rating": 4.7,
+        "description": "Professional mirrorless camera with 45MP sensor and 8K video.",
+        "specifications": {
+            "Sensor": "45MP full-frame CMOS",
+            "Video": "8K RAW recording",
+            "ISO": "100-51200",
+            "Features": "In-body stabilization, dual card slots"
+        },
+        "reviews": [
+            {"rating": 5, "text": "Outstanding image quality and 8K video capabilities", "helpful_count": 123},
+            {"rating": 4, "text": "Professional grade but expensive", "helpful_count": 87}
+        ]
+    },
+    {
+        "id": "20",
+        "name": "Sony Alpha a7 IV",
+        "category": "Cameras",
+        "price": 2499,
+        "brand": "Sony",
+        "rating": 4.8,
+        "description": "Versatile full-frame mirrorless camera for photo and video.",
+        "specifications": {
+            "Sensor": "33MP full-frame CMOS",
+            "Video": "4K 60p recording",
+            "ISO": "100-51200",
+            "Features": "693 phase-detection AF points"
+        },
+        "reviews": [
+            {"rating": 5, "text": "Perfect balance of photo and video capabilities", "helpful_count": 156},
+            {"rating": 5, "text": "Excellent autofocus system", "helpful_count": 134}
+        ]
+    }
+]
