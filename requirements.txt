@@ -5,3 +5,4 @@ requests==2.31.0
 pandas==2.2.1
 numpy==1.26.4
 torch==2.2.1 --index-url https://download.pytorch.org/whl/cpu
+dotenv==1.1.1

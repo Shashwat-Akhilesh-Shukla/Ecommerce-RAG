@@ -1,0 +1,93 @@
+[
+  {
+    "query": "compare the best laptops",
+    "top_product_ids": [],
+    "latency_ms": 2704,
+    "timestamp": 1755248050
+  },
+  {
+    "query": "best laptop for gaming",
+    "top_product_ids": [
+      "7",
+      "7",
+      "8",
+      "6",
+      "14",
+      "5",
+      "6",
+      "7",
+      "14",
+      "5"
+    ],
+    "latency_ms": 4254,
+    "timestamp": 1755252454
+  },
+  {
+    "query": "What are the best smartphones?",
+    "top_product_ids": [
+      "12",
+      "12",
+      "11",
+      "4",
+      "2",
+      "3",
+      "2",
+      "16",
+      "2",
+      "16"
+    ],
+    "latency_ms": 4486,
+    "timestamp": 1755253680
+  },
+  {
+    "query": "best gaming laptop",
+    "top_product_ids": [
+      "7",
+      "7",
+      "8",
+      "6",
+      "14",
+      "7",
+      "5",
+      "14",
+      "6",
+      "14"
+    ],
+    "latency_ms": 10699,
+    "timestamp": 1755254022
+  },
+  {
+    "query": "Compare gaming laptops",
+    "top_product_ids": [
+      "7",
+      "8",
+      "7",
+      "14",
+      "5",
+      "8",
+      "14",
+      "7",
+      "6",
+      "6"
+    ],
+    "latency_ms": 9053,
+    "timestamp": 1755255010
+  },
+  {
+    "query": "Compare gaming laptops",
+    "top_product_ids": [
+      "23",
+      "7",
+      "22",
+      "8",
+      "7",
+      "21",
+      "14",
+      "22",
+      "23",
+      "21"
+    ],
+    "latency_ms": 11845,
+    "timestamp": 1755255644
+  }
+]

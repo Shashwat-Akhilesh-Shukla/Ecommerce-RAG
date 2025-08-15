@@ -75,8 +75,6 @@
             {"rating": 4, "text": "Great value flagship phone", "helpful_count": 36}
         ]
     },
-
-    # Laptops
     {
         "id": "5",
         "name": "MacBook Pro 14-inch M3",
@@ -135,7 +133,6 @@
         ]
     },
 
-    # Headphones
     {
         "id": "8",
         "name": "Sony WH-1000XM5",
@@ -193,8 +190,6 @@
             {"rating": 4, "text": "Great noise cancellation but average sound", "helpful_count": 56}
         ]
     },
-
-    # Smartwatches
     {
         "id": "11",
         "name": "Apple Watch Series 9",
@@ -233,8 +228,6 @@
             {"rating": 4, "text": "Great Android companion watch", "helpful_count": 52}
         ]
     },
-
-    # Gaming Consoles
     {
         "id": "13",
         "name": "PlayStation 5",
@@ -273,8 +266,6 @@
             {"rating": 4, "text": "Powerful hardware with excellent backward compatibility", "helpful_count": 156}
         ]
     },
-
-    # Tablets
     {
         "id": "15",
         "name": "iPad Pro 12.9-inch M2",
@@ -313,8 +304,6 @@
             {"rating": 4, "text": "Great for productivity but quite large", "helpful_count": 67}
         ]
     },
-
-    # Smart Home
     {
         "id": "17",
         "name": "Amazon Echo Dot 5th Gen",
@@ -353,8 +342,6 @@
             {"rating": 4, "text": "Great for video calls and smart home control", "helpful_count": 76}
         ]
     },
-
-    # Cameras
     {
         "id": "19",
         "name": "Canon EOS R5",
@@ -392,5 +379,63 @@
             {"rating": 5, "text": "Perfect balance of photo and video capabilities", "helpful_count": 156},
             {"rating": 5, "text": "Excellent autofocus system", "helpful_count": 134}
         ]
-    }
+    },
+    {
+    "id": "21",
+    "name": "MSI GE76 Raider",
+    "category": "Laptops", 
+    "price": 2199,
+    "brand": "MSI",
+    "rating": 4.5,
+    "description": "High-performance gaming laptop with RTX 4070 and RGB lighting.",
+    "specifications": {
+        "Processor": "Intel Core i7-12700H",
+        "GPU": "NVIDIA RTX 4070",
+        "RAM": "32GB DDR5",
+        "Display": "17.3-inch 144Hz FHD"
+    },
+    "reviews": [
+        {"rating": 5, "text": "Excellent gaming performance and cooling", "helpful_count": 89},
+        {"rating": 4, "text": "Great for gaming but quite heavy", "helpful_count": 67}
+    ]
+},
+{
+    "id": "22", 
+    "name": "Alienware m15 R7",
+    "category": "Laptops",
+    "price": 1899,
+    "brand": "Dell",
+    "rating": 4.4,
+    "description": "Premium gaming laptop with alien design and RTX graphics.",
+    "specifications": {
+        "Processor": "AMD Ryzen 7 6800H",
+        "GPU": "NVIDIA RTX 4060",
+        "RAM": "16GB DDR5", 
+        "Display": "15.6-inch 165Hz QHD"
+    },
+    "reviews": [
+        {"rating": 5, "text": "Amazing build quality and performance", "helpful_count": 78},
+        {"rating": 4, "text": "Great gaming experience but expensive", "helpful_count": 54}
+    ]
+},
+{
+    "id": "23",
+    "name": "HP Omen 16",
+    "category": "Laptops",
+    "price": 1299,
+    "brand": "HP", 
+    "rating": 4.3,
+    "description": "Budget-friendly gaming laptop with solid performance.",
+    "specifications": {
+        "Processor": "Intel Core i5-12500H",
+        "GPU": "NVIDIA RTX 4050",
+        "RAM": "16GB DDR4",
+        "Display": "16.1-inch 144Hz FHD"
+    },
+    "reviews": [
+        {"rating": 4, "text": "Great value for gaming at this price", "helpful_count": 65},
+        {"rating": 4, "text": "Good performance but average build quality", "helpful_count": 43}
+    ]
+}
+
 ]
