@@ -91,7 +91,3 @@ streamlit run app.py
 ```
 
 The app will be available at `http://localhost:8501`
-
-## 📊 Data Processing Pipeline
-
-### 1. Product Data Chun
