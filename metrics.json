@@ -89,5 +89,101 @@
     ],
     "latency_ms": 11845,
     "timestamp": 1755255644
+  },
+  {
+    "query": "Best gaming laptop",
+    "intent": {
+      "type": "comparison",
+      "categories": [
+        "laptops",
+        "gaming"
+      ],
+      "comparison_requested": true,
+      "budget_mentioned": false,
+      "price_range": null,
+      "specific_features": [
+        "gaming"
+      ]
+    },
+    "products_retrieved": 6,
+    "top_product_ids": [
+      "23",
+      "7",
+      "22",
+      "21",
+      "14"
+    ],
+    "categories_found": [
+      "Gaming",
+      "Laptops"
+    ],
+    "latency_ms": 17150,
+    "timestamp": 1755271724
+  },
+  {
+    "query": "I need a good smartphone under $800 with excellent camera",
+    "intent": {
+      "type": "general",
+      "categories": [
+        "smartphones",
+        "cameras"
+      ],
+      "comparison_requested": false,
+      "budget_mentioned": true,
+      "price_range": 800,
+      "specific_features": [
+        "camera"
+      ]
+    },
+    "products_retrieved": 8,
+    "top_product_ids": [
+      "3",
+      "12",
+      "16",
+      "11",
+      "8"
+    ],
+    "categories_found": [
+      "Tablets",
+      "Headphones",
+      "Smartwatches",
+      "Smart Home",
+      "Smartphones"
+    ],
+    "latency_ms": 11624,
+    "timestamp": 1755271898
+  },
+  {
+    "query": "Best cameras for professional wedding photography",
+    "intent": {
+      "type": "comparison",
+      "categories": [
+        "cameras"
+      ],
+      "comparison_requested": true,
+      "budget_mentioned": false,
+      "price_range": null,
+      "specific_features": [
+        "professional",
+        "camera"
+      ]
+    },
+    "products_retrieved": 8,
+    "top_product_ids": [
+      "20",
+      "8",
+      "12",
+      "19",
+      "18"
+    ],
+    "categories_found": [
+      "Headphones",
+      "Cameras",
+      "Smartwatches",
+      "Smart Home",
+      "Smartphones"
+    ],
+    "latency_ms": 13312,
+    "timestamp": 1755271968
   }
 ]

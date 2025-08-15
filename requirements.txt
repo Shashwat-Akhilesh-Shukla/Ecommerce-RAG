@@ -1,8 +1,10 @@
-streamlit==1.32.0
-pinecone-client==3.2.2
-sentence-transformers==2.6.1
-requests==2.31.0
-pandas==2.2.1
-numpy==1.26.4
-torch==2.2.1 --index-url https://download.pytorch.org/whl/cpu
-dotenv==1.1.1
+streamlit
+pinecone-client
+sentence-transformers
+requests
+pandas
+numpy
+plotly
+scikit-learn
+torch --index-url https://download.pytorch.org/whl/cpu
+dotenv
