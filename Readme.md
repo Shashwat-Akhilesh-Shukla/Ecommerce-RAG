@@ -36,7 +36,7 @@ A sophisticated **Retrieval-Augmented Generation (RAG)** system designed specifi
 ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
 │   Streamlit UI  │    │  RAG System     │    │  Vector Store   │
 │                 │────│                 │────│   (Pinecone)    │
-│ • Chat Interface│    │ • Query Processing    │ • Product Chunks │
+│ • Chat Interface│    │ • Query Processing   │ • Product Chunks│
 │ • Visualizations│    │ • Retrieval     │    │ • Embeddings    │
 │ • User Profiles │    │ • Reranking     │    │ • Metadata      │
 └─────────────────┘    └─────────────────┘    └─────────────────┘
